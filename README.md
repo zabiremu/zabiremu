@@ -2,7 +2,7 @@
 #### I am Full Stack Developer
 ![I am Full Stack Developer](https://media.licdn.com/dms/image/D5616AQGSxriQo7i1jw/profile-displaybackgroundimage-shrink_350_1400/0/1684078016004?e=1714003200&v=beta&t=FxJzzssXiJlz4kzjanvH8n-sTSH_VNx554nWfCwg_lY)
 
-"Full Stack Developer with 2+ years of experience specializing in React.js and Laravel. Passionate about crafting efficient and scalable web applications. Constantly seeking new challenges and opportunities to innovate in the world of web development."
+Full Stack Developer with 2+ years of experience specializing in React.js and Laravel. Passionate about crafting efficient and scalable web applications. Constantly seeking new challenges and opportunities to innovate in the world of web development.
 
 Skills: Bootstrap / Tailwind CSS / Material UI / JavaScript/ jQuery/ React.js /  PHP (OOP) / Laravel / Rest Api / Cpanel / Wordpress
 
