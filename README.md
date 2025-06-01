@@ -6,7 +6,7 @@ Full Stack Developer with 2+ years of experience specializing in React.js and La
 
 Skills: Bootstrap / Tailwind CSS / Material UI / JavaScript/ jQuery/ React.js /  PHP (OOP) / Laravel / Rest Api / Cpanel / Wordpress
 
-- 🔭 I’m currently working on Zaimah Technologies Limited 
+- 🔭 I’m currently working on Limerick Resources Limited 
 - 🌱 I’m currently learning JavaScript 
 - 📫 How to reach me: email: zabirraihan570@gmail.com 
 
