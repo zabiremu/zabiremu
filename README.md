@@ -13,7 +13,7 @@
 
 ## 🚀 About Me
 
-> **Full Stack Developer** with 2+ years of experience crafting efficient and scalable web applications. I specialize in **React.js** and **Laravel**, constantly pushing the boundaries of modern web development.
+> **Full Stack Developer** with 2+ years of experience crafting efficient and scalable web applications. I specialize in **React.js**, **Next.js**, **Node.js**, **Express.js**, and **Laravel**, constantly pushing the boundaries of modern web development.
 
 ```javascript
 const zabir = {
@@ -22,8 +22,8 @@ const zabir = {
     company: "Limerick Resources Limited",
     code: ["JavaScript", "PHP", "HTML", "CSS"],
     technologies: {
-        frontend: ["React.js", "jQuery", "Bootstrap", "Tailwind CSS", "Material UI"],
-        backend: ["Laravel", "REST API", "PHP OOP"],
+        frontend: ["React.js", "Next.js", "jQuery", "Bootstrap", "Tailwind CSS", "Material UI"],
+        backend: ["Node.js", "Express.js", "Laravel", "REST API", "PHP OOP"],
         tools: ["cPanel", "WordPress", "Git"],
     },
     currentFocus: "Mastering JavaScript & Building Scalable Applications",
@@ -37,6 +37,7 @@ const zabir = {
 
 ### Frontend
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -44,6 +45,8 @@ const zabir = {
 ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
 
 ### Backend
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
