@@ -1,139 +1,230 @@
 <div align="center">
-  <img src="https://media.licdn.com/dms/image/D5616AQGSxriQo7i1jw/profile-displaybackgroundimage-shrink_350_1400/0/1684078016004?e=1714003200&v=beta&t=FxJzzssXiJlz4kzjanvH8n-sTSH_VNx554nWfCwg_lY" alt="Banner" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Zabir%20Raihan%20Emu&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=gradient" />
 </div>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B+I'm+Zabir+Raihan+Emu;Full+Stack+Developer;React+%7C+Laravel+Specialist;Building+Scalable+Web+Apps" alt="Typing SVG" />
-</h1>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=100&lines=Full+Stack+Developer+%F0%9F%9A%80;React+%7C+Next.js+%7C+Node.js+Specialist;Building+Scalable+Web+Applications;2%2B+Years+of+Experience" alt="Typing SVG" />
+</div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=zabiremu&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/zabiremu?label=Followers&style=social" alt="GitHub Followers" />
-</p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=zabiremu&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/zabiremu?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/zabiremu?label=Stars&style=for-the-badge&color=yellow" alt="GitHub Stars" />
+</div>
 
-## 🚀 About Me
+<br>
 
-> **Full Stack Developer** with 2+ years of experience crafting efficient and scalable web applications. I specialize in **React.js**, **Next.js**, **Node.js**, **Express.js**, and **Laravel**, constantly pushing the boundaries of modern web development.
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-```javascript
+### 👨‍💻 About Me
+
+```typescript
 const zabir = {
-    location: "Dhaka, Bangladesh",
-    role: "Full Stack Developer",
+    name: "Zabir Raihan Emu",
+    role: "Full Stack Developer 💼",
+    location: "Dhaka, Bangladesh 🇧🇩",
     company: "Limerick Resources Limited",
-    code: ["JavaScript", "PHP", "HTML", "CSS"],
+    
+    code: ["JavaScript", "TypeScript", "PHP", "HTML", "CSS"],
+    
     technologies: {
-        frontend: ["React.js", "Next.js", "jQuery", "Bootstrap", "Tailwind CSS", "Material UI"],
-        backend: ["Node.js", "Express.js", "Laravel", "REST API", "PHP OOP"],
-        tools: ["cPanel", "WordPress", "Git"],
+        frontend: {
+            js: ["React.js", "Next.js", "jQuery"],
+            css: ["Tailwind", "Bootstrap", "Material UI"],
+        },
+        backend: {
+            js: ["Node.js", "Express.js", "REST API"],
+            php: ["Laravel", "PHP OOP", "WordPress"],
+        },
+        tools: ["Git", "cPanel", "Postman", "VS Code"],
+        databases: ["MySQL", "MongoDB"],
     },
-    currentFocus: "Mastering JavaScript & Building Scalable Applications",
-    challenge: "Always seeking new opportunities to innovate",
+    
+    currentFocus: "Mastering Modern JavaScript Ecosystem",
+    lifePhilosophy: "Code, Learn, Repeat 🔄",
 };
 ```
 
-## 💻 Tech Stack
+<br clear="right"/>
+
+## 🛠️ My Tech Arsenal
 
 <div align="center">
 
-### Frontend
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
+<table>
+<tr>
+<td align="center" width="50%">
 
-### Backend
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
+### 🎨 Frontend Development
 
-### Tools & Others
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![cPanel](https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+<img src="https://skillicons.dev/icons?i=react,nextjs,javascript,html,css,tailwind,bootstrap,materialui,jquery&perline=3" />
+
+</td>
+<td align="center" width="50%">
+
+### ⚙️ Backend Development
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,wordpress,postman&perline=3" />
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+
+### 🗄️ Databases & Tools
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,vscode,figma&perline=3" />
+
+</td>
+<td align="center" width="50%">
+
+### 🚀 Currently Exploring
+
+<img src="https://skillicons.dev/icons?i=typescript,docker,aws,redis,graphql,prisma&perline=3" />
+
+</td>
+</tr>
+</table>
 
 </div>
 
-## 🎯 Current Focus
+## 🎯 What I'm Up To
+
+<div align="center">
 
 ```mermaid
-graph LR
-    A[Learning JavaScript] --> B[Building Projects]
-    B --> C[Exploring New Tech]
-    C --> D[Contributing to Open Source]
-    D --> A
+%%{init: {'theme':'dark'}}%%
+mindmap
+  root((Zabir's<br/>Journey))
+    🔭 Working
+      Limerick Resources Limited
+      Building Scalable Apps
+    🌱 Learning
+      Advanced JavaScript
+      Cloud Technologies
+      System Design
+    💡 Creating
+      Open Source Projects
+      Innovative Solutions
+    🤝 Collaborating
+      Tech Communities
+      Exciting Projects
 ```
 
-- 🔭 Working at **Limerick Resources Limited**
-- 🌱 Deep diving into **JavaScript** mastery
-- 💡 Building innovative web solutions
-- 🤝 Open to collaboration on exciting projects
+</div>
+
+<br>
+
+<div align="center">
+
+### 💼 Professional Focus
+
+| 🔭 Currently Working | 🌱 Learning | 💬 Ask Me About | 📫 Reach Me |
+|:---:|:---:|:---:|:---:|
+| **Limerick Resources Ltd** | **JavaScript Mastery** | **React, Laravel, APIs** | **zabirraihan570@gmail.com** |
+
+</div>
 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zabiremu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zabiremu&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=zabiremu&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF&ring_color=F85D7F" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=zabiremu&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=FFFFFF" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=zabiremu&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zabiremu&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&langs_count=8" alt="Top Languages"/>
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=zabiremu&custom_title=Contribution%20Graph&hide_border=true&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF&area_color=F85D7F&area=true" alt="Contribution Graph"/>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=zabiremu&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=zabiremu&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" alt="Trophies"/>
 </div>
 
-## 📈 Contribution Graph
+## 🎨 Contribution Snake
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zabiremu&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Contribution Graph" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zabiremu/zabiremu/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zabiremu/zabiremu/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/zabiremu/zabiremu/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
-## 🌐 Connect With Me
+## 🌐 Let's Connect
 
 <div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zabiremu/)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zabiremu)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/zabiremu)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/zabiremu/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://zabiremu.netlify.app/)
+  <a href="https://www.linkedin.com/in/zabiremu/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/zabiremu">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.facebook.com/zabiremu">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="https://www.instagram.com/zabiremu/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://zabiremu.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="mailto:zabirraihan570@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</div>
 
-📧 **Email:** zabirraihan570@gmail.com
+<br>
+
+<div align="center">
+
+### 🎖️ GitHub Achievements
+
+<a href='https://archiveprogram.github.com/'>
+  <img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'>
+</a>
+<a href='https://docs.github.com/en/developers'>
+  <img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'>
+</a>
+<a href='https://github.com/pricing'>
+  <img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'>
+</a>
+<a href='https://stars.github.com/'>
+  <img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'>
+</a>
+<a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'>
+  <img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'>
+</a>
 
 </div>
 
-## 🎖️ GitHub Badges
+## 💭 Dev Quote
 
 <div align="center">
-  <a href='https://archiveprogram.github.com/'>
-    <img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'>
-  </a>
-  <a href='https://docs.github.com/en/developers'>
-    <img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'>
-  </a>
-  <a href='https://github.com/pricing'>
-    <img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'>
-  </a>
-  <a href='https://stars.github.com/'>
-    <img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'>
-  </a>
-  <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'>
-    <img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'>
-  </a>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+</div>
+
+<br>
+
+## 🎵 Spotify Playing
+
+<div align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31l4ro6s7hnuoj7u6cjkutpwknti&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing"/>
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&animation=twinkling"/>
   
-  **💬 "Code is like humor. When you have to explain it, it's bad." – Cory House**
+  <h3>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=%22First%2C+solve+the+problem.;Then%2C+write+the+code.%22;%E2%80%93+John+Johnson" alt="Quote" />
+  </h3>
   
-  <sub>⭐️ From [zabiremu](https://github.com/zabiremu) | Let's build something amazing together!</sub>
+  <p>
+    <img src="https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge" alt="Made with Love"/>
+    <img src="https://img.shields.io/badge/Powered%20by-☕-brown?style=for-the-badge" alt="Powered by Coffee"/>
+  </p>
+  
+  <sub>⭐️ From <a href="https://github.com/zabiremu">zabiremu</a> | Let's build something amazing together! 🚀</sub>
 </div>
